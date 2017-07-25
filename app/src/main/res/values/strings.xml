@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ServerNodejs</string>
+    <string name="btn_write">Write</string>
+    <string name="bbs_title">Title</string>
+    <string name="bbs_author">Author</string>
+    <string name="bbs_content">Content</string>
+    <string name="bbs_date">Date</string>
+</resources>
